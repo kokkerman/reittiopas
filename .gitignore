@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+
+# local reference notes, not part of the app
+docs/
+
+# editor and os files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
